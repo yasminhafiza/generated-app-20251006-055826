@@ -1,6 +1,6 @@
 # Adhikti Cares - Adhikti Foundation Website
 
-[cloudflarebutton]
+[![Deploy to Cloudflare](https://deploy.workers.cloudflare.com/button)](https://deploy.workers.cloudflare.com/?url=https://github.com/yasminhafiza/generated-app-20251006-055826)
 
 'Adhikti Cares' is a modern, responsive, and bilingual (Indonesian/English) website for the Adhikti Foundation. The platform is designed with an illustrative and empathetic aesthetic to engage visitors and encourage participation in the foundation's mission. It serves as a comprehensive information hub, detailing the mental and physical health challenges faced by Indonesian youth, and provides clear pathways for users to get involved through volunteering and donations. The site features dedicated pages for understanding the core issues, learning how to become a volunteer (including an FAQ and a list of current volunteers), viewing the foundation's detailed profile and legal status, tracking donor contributions, and getting in touch. The visual design prioritizes a clean, hopeful, and accessible user experience, utilizing a soft color palette and engaging micro-interactions to tell the foundation's story and inspire action.
 
@@ -87,4 +87,4 @@ This will trigger the build process and use the Wrangler CLI to deploy the stati
 
 Alternatively, you can deploy directly from your GitHub repository:
 
-[cloudflarebutton]
+[![Deploy to Cloudflare](https://deploy.workers.cloudflare.com/button)](https://deploy.workers.cloudflare.com/?url=https://github.com/yasminhafiza/generated-app-20251006-055826)
