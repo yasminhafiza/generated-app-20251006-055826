@@ -1,0 +1,355 @@
+{
+  "nav": {
+    "mentalHealth": {
+      "title": "Kesehatan Jiwa",
+      "items": [
+        { "label": "Isu Kesehatan Anak & Remaja", "href": "/mental-health" },
+        { "label": "Solusi & Dukungan", "href": "/solutions-support" },
+        { "label": "Panduan Orang Tua", "href": "/parenting-guidance" }
+      ]
+    },
+    "volunteer": "Menjadi Relawan",
+    "communityAction": "Aksi Komunitas",
+    "profile": "Profil",
+    "donors": "Donatur",
+    "contact": "Kontak",
+    "donateNow": "Donasi Sekarang"
+  },
+  "header": {
+    "title": "Adhikti Foundation"
+  },
+  "footer": {
+    "tagline": "Bersama untuk Kesehatan Anak dan Remaja.",
+    "quickLinks": "Quick Links",
+    "contact": "Kontak",
+    "newsletter": "Newsletter",
+    "newsletterPrompt": "Dapatkan update terbaru dari kami.",
+    "emailPlaceholder": "Email Anda",
+    "subscribe": "Subscribe",
+    "copyright": "Adhikti Foundation. All rights reserved.",
+    "builtWith": "Built with ❤️ at Cloudflare"
+  },
+  "floatingCta": {
+    "join": "Join Us",
+    "donate": "Donate Now"
+  },
+  "home": {
+    "carousel": [
+      {
+        "imageUrl": "https://images.unsplash.com/photo-1593113646773-028c64a8f1b8?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+        "headline": "Bersama untuk Kesehatan Jiwa Anak & Remaja",
+        "caption": "Setiap anak berhak untuk didengar dan didukung. Mari ciptakan masa depan yang lebih cerah bersama.",
+        "buttonText": "Pelajari Lebih Lanjut",
+        "link": "/mental-health"
+      },
+      {
+        "imageUrl": "https://images.unsplash.com/photo-1518398046979-6e1b8a03a46a?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+        "headline": "Membangun Komunitas yang Aman & Peduli",
+        "caption": "Jadilah bagian dari perubahan. Bergabunglah dengan kami sebagai relawan untuk menyebarkan kesadaran.",
+        "buttonText": "Gabung Jadi Relawan",
+        "link": "/volunteer"
+      },
+      {
+        "imageUrl": "https://images.unsplash.com/photo-1505236858219-8359eb29e329?q=80&w=2162&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+        "headline": "Dukungan Anda Membawa Harapan",
+        "caption": "Donasi Anda membantu kami menyediakan sumber daya penting bagi anak-anak yang membutuhkan.",
+        "buttonText": "Lihat Aksi Kami",
+        "link": "/community-action"
+      }
+    ],
+    "campaignTitle": "Bebaskan Anak dan Remaja Indonesia dari Masalah Kesehatan Jiwa.",
+    "mission": {
+      "statement": "Adhikti Foundation peduli pada nasib anak dan remaja di Indonesia, terutama pada isu kesehatan mental dan sosial.",
+      "volunteerCta": "Menjadi Relawan",
+      "donateCta": "Donasi Sekarang"
+    },
+    "communitySection": {
+      "title": "Kesadaran dan Partisipasi Komunitas",
+      "introduction": "Kesehatan mental bukan hanya masalah medis — ini adalah tanggung jawab bersama. Bersama, kita dapat menciptakan lingkungan yang mendukung bagi anak-anak dan remaja untuk tumbuh dengan aman dan percaya diri.",
+      "cards": [
+        {
+          "icon": "ShieldCheck",
+          "title": "Ruang Aman",
+          "description": "Mendorong komunitas untuk menyediakan lingkungan yang aman dan mendukung bagi anak-anak dan remaja dengan potensi masalah kesehatan mental."
+        },
+        {
+          "icon": "HeartHandshake",
+          "title": "Kurangi Stigma",
+          "description": "Mempromosikan upaya kolektif untuk menghilangkan diskriminasi dan pelabelan negatif terhadap tantangan kesehatan mental."
+        },
+        {
+          "icon": "Users",
+          "title": "Sistem Dukungan Keluarga",
+          "description": "Membantu keluarga membangun jaringan dukungan emosional dan sosial yang kuat."
+        }
+      ],
+      "learnMoreButton": "Jelajahi Solusi",
+      "kidpediaTeaser": "Temukan panduan praktis untuk orang tua dalam mendukung anak-anak mereka.",
+      "communityActionLink": "/solutions-support",
+      "parentingGuidanceLink": "/parenting-guidance"
+    }
+  },
+  "mentalHealthIssuesPage": {
+    "title": "Isu Kesehatan Jiwa Anak & Remaja",
+    "introduction": "Memahami tantangan kesehatan mental yang dihadapi generasi muda adalah langkah pertama untuk memberikan dukungan yang efektif. Mari kita kenali isu-isu umum, penyebabnya, dan tanda-tanda yang perlu diwaspadai.",
+    "commonChallenges": {
+      "title": "Tantangan Umum",
+      "items": [
+        {"icon": "CloudRain", "name": "Kecemasan & Stres", "description": "Kekhawatiran berlebihan tentang sekolah, teman, atau masa depan."},
+        {"icon": "Frown", "name": "Depresi & Kesedihan", "description": "Perasaan sedih yang terus-menerus, kehilangan minat, dan energi rendah."},
+        {"icon": "Users", "name": "Masalah Sosial & Perundungan", "description": "Kesulitan berinteraksi dengan teman sebaya dan dampak negatif dari perundungan."},
+        {"icon": "HeartCrack", "name": "Trauma & Tekanan", "description": "Dampak dari peristiwa sulit atau tekanan lingkungan yang berat."}
+      ]
+    },
+    "causes": {
+      "title": "Penyebab & Faktor Risiko",
+      "items": [
+        {"name": "Biologis", "description": "Faktor genetik dan kimia otak."},
+        {"name": "Psikologis", "description": "Pola pikir dan kemampuan mengatasi masalah."},
+        {"name": "Lingkungan", "description": "Keluarga, sekolah, dan tekanan sosial."}
+      ]
+    },
+    "statistics": {
+      "title": "Statistik Kunci",
+      "items": [
+        {"value": "1 dari 7", "label": "Remaja (10-19 tahun) mengalami gangguan mental (WHO)."},
+        {"value": "50%", "label": "Gangguan mental dimulai pada usia 14 tahun (WHO)."},
+        {"value": "9.8%", "label": "Remaja Indonesia mengalami gangguan mental (Riset Kesehatan Dasar 2018)."}
+      ]
+    },
+    "signs": {
+      "title": "Tanda yang Perlu Diwaspadai",
+      "description": "Perhatikan perubahan perilaku yang signifikan pada anak atau remaja Anda:",
+      "items": ["Perubahan suasana hati yang drastis", "Menarik diri dari teman dan keluarga", "Penurunan prestasi akademik", "Perubahan pola tidur atau makan", "Kehilangan minat pada hobi"]
+    },
+    "cta": {
+      "text": "Mengetahui tanda-tandanya adalah langkah awal. Mari jelajahi solusi dan cara memberikan dukungan.",
+      "button": "Lihat Solusi & Dukungan",
+      "link": "/solutions-support"
+    }
+  },
+  "solutionsSupportPage": {
+    "title": "Solusi & Dukungan",
+    "introduction": "Mengatasi tantangan kesehatan mental membutuhkan upaya bersama. Berikut adalah pendekatan praktis yang dapat kita ambil sebagai komunitas, serta kapan harus mencari bantuan profesional.",
+    "sections": [
+      {
+        "icon": "Users",
+        "title": "Inisiatif Komunitas",
+        "content": "Komunitas adalah garda terdepan. Dengan mengadakan lokakarya, menciptakan ruang aman untuk berbagi, dan memberdayakan mentor sebaya, kita dapat membangun sistem dukungan yang kuat dan mudah diakses.",
+        "points": ["Lokakarya kesadaran di sekolah", "Program mentor sebaya", "Ruang diskusi terbuka dan aman"]
+      },
+      {
+        "icon": "Stethoscope",
+        "title": "Bantuan Profesional",
+        "content": "Terkadang, bantuan dari ahli sangat diperlukan. Psikolog, konselor, dan layanan medis dapat memberikan diagnosis, terapi, dan intervensi yang tepat untuk membantu pemulihan.",
+        "points": ["Konseling individu atau keluarga", "Terapi perilaku kognitif (CBT)", "Dukungan medis jika diperlukan"]
+      },
+      {
+        "icon": "HeartHandshake",
+        "title": "Alat Perawatan Diri (Self-Care)",
+        "content": "Mendorong kebiasaan sehat dapat meningkatkan ketahanan mental. Aktivitas sederhana seperti mindfulness, menulis jurnal, atau mengekspresikan diri melalui seni dapat menjadi pelampiasan yang positif.",
+        "points": ["Latihan mindfulness dan pernapasan", "Menulis jurnal harian", "Ekspresi kreatif melalui seni atau musik"]
+      }
+    ],
+    "cta": {
+      "text": "Anda bisa menjadi bagian dari solusi. Bergabunglah dengan kami untuk membuat perbedaan.",
+      "button": "Menjadi Relawan",
+      "link": "/volunteer"
+    }
+  },
+  "parentingGuidancePage": {
+    "title": "Panduan untuk Orang Tua",
+    "introduction": "Peran orang tua sangat penting dalam membentuk kesehatan mental anak. Berikut adalah panduan untuk membangun komunikasi yang positif, mengenali kebutuhan emosional, dan mendukung pertumbuhan anak Anda.",
+    "sections": [
+      {
+        "icon": "MessageSquare",
+        "title": "Komunikasi Positif",
+        "content": "Ciptakan lingkungan di mana anak merasa aman untuk berbicara tentang apa pun. Dengarkan tanpa menghakimi, validasi perasaan mereka, dan ajukan pertanyaan terbuka untuk mendorong dialog.",
+        "points": ["Dengarkan secara aktif", "Validasi perasaan mereka", "Hindari menghakimi"]
+      },
+      {
+        "icon": "Heart",
+        "title": "Mengenali Kebutuhan Emosional",
+        "content": "Anak-anak mengekspresikan stres dan kesedihan dengan cara yang berbeda. Perhatikan perubahan perilaku, seperti mudah marah atau menarik diri, sebagai tanda bahwa mereka mungkin membutuhkan dukungan emosional.",
+        "points": ["Perhatikan perubahan perilaku", "Pahami pemicu stres mereka", "Tawarkan kenyamanan dan dukungan"]
+      },
+      {
+        "icon": "Shield",
+        "title": "Membangun Ketahanan",
+        "content": "Bantu anak Anda mengembangkan kemampuan untuk bangkit dari kesulitan. Ajarkan keterampilan memecahkan masalah, dorong rutinitas yang sehat, dan rayakan upaya mereka, bukan hanya hasil akhir.",
+        "points": ["Ajarkan pemecahan masalah", "Dorong rutinitas yang sehat", "Fokus pada upaya, bukan hasil"]
+      },
+      {
+        "icon": "HelpCircle",
+        "title": "Kapan Mencari Bantuan Profesional",
+        "content": "Jika Anda khawatir tentang kesehatan mental anak Anda, jangan ragu untuk mencari bantuan. Tanda-tanda seperti perubahan perilaku yang ekstrem atau berlangsung lama adalah alasan yang baik untuk berkonsultasi dengan profesional.",
+        "points": ["Percayai insting Anda", "Konsultasikan dengan guru atau konselor sekolah", "Hubungi psikolog anak"]
+      }
+    ]
+  },
+  "volunteer": {
+    "title": "Menjadi Relawan Adhikti Foundation",
+    "faqTitle": "Frequently Asked Questions (FAQ)",
+    "faqs": [
+      {
+        "question": "Siapa yang dapat menjadi relawan?",
+        "answer": "Siapa saja yang memiliki kepedulian terhadap kesehatan jiwa anak dan remaja Indonesia."
+      },
+      {
+        "question": "Bagaimana menjadi relawan?",
+        "answer": "Klik tautan pendaftaran relawan atau hubungi WA 08811094150."
+      },
+      {
+        "question": "Apa saja yang dilakukan relawan?",
+        "answer": "• Mencari sub-relawan dari komunitas dan masyarakat.\n• Melakukan edukasi dengan materi KIE.\n• Mendistribusikan leaflet dan laporan kegiatan ke Adhikti Foundation."
+      },
+      {
+        "question": "Apa yang didapatkan relawan?",
+        "answer": "• 2.5% dari total dana sub-relawan.\n• Sertifikat ucapan terima kasih.\n• Rekomendasi kegiatan Adhikti lainnya."
+      }
+    ],
+    "volunteerList": {
+      "title": "Daftar Relawan/Sub Relawan",
+      "caption": "Daftar relawan dan sub-relawan aktif Adhikti Foundation.",
+      "headers": ["Kode", "Nama", "Pekerjaan", "Lokasi"],
+      "volunteers": [
+        {"code": "AF-001", "name": "Reza Novalino", "occupation": "Mahasiswa", "location": "Jakarta"},
+        {"code": "AF-002", "name": "Bonike Islam", "occupation": "Karyawan Swasta", "location": "Bogor"},
+        {"code": "AF-003", "name": "Dani Damanik", "occupation": "Wiraswasta", "location": "Depok"},
+        {"code": "AF-004", "name": "Della", "occupation": "Ibu Rumah Tangga", "location": "Tangerang"},
+        {"code": "AF-005", "name": "Riesta A. Chandra", "occupation": "Guru", "location": "Bekasi"},
+        {"code": "AF-006", "name": "Irma", "occupation": "Perawat", "location": "Jakarta"},
+        {"code": "AF-007", "name": "Hanifah", "occupation": "Mahasiswa", "location": "Bandung"},
+        {"code": "AF-008", "name": "Sapna Putri", "occupation": "Desainer Grafis", "location": "Jakarta"},
+        {"code": "AF-009", "name": "Naomi Silaban", "occupation": "Pengacara", "location": "Jakarta"},
+        {"code": "AF-010", "name": "Ziya Jauza", "occupation": "Penulis", "location": "Yogyakarta"}
+      ]
+    }
+  },
+  "profile": {
+    "about": {
+      "title": "Tentang Adhikti Foundation",
+      "text": "Adhikti Foundation (Yayasan Adhirajasa Kusuma Bakti) adalah yayasan sosial yang resmi berdiri sejak 30 Mei 2022, didedikasikan untuk meningkatkan kualitas hidup anak dan remaja di Indonesia."
+    },
+    "vision": {
+      "title": "Visi",
+      "text": "Menjadi organisasi terdepan yang memahami, melindungi, dan memberdayakan anak serta remaja untuk masa depan yang lebih cerah."
+    },
+    "mission": {
+      "title": "Misi",
+      "text": "Mewujudkan kehidupan yang layak, sehat, dan aman bagi setiap anak dan remaja di Indonesia melalui program-program yang inovatif dan berkelanjutan."
+    },
+    "strategicIssues": {
+      "title": "Isu Strategis 2022–2027",
+      "issues": [
+        "Kesehatan anak dan remaja (mental, gizi, HIV-AIDS).",
+        "Dampak perubahan iklim terhadap anak.",
+        "Anak bermasalah dengan hukum dan pemulihan psikologis.",
+        "Pemberdayaan remaja dan advokasi kebijakan anak."
+      ]
+    },
+    "programs": {
+      "title": "Program Unggulan",
+      "items": [
+        {
+          "name": "Sang Pelipur",
+          "description": "Kerja sama dengan IPB untuk memberikan dukungan psikososial kepada anak-anak di daerah rentan."
+        },
+        {
+          "name": "Penerbitan Buku “Senandung Sang Pelipur”",
+          "description": "Buku cerita anak yang bertujuan untuk edukasi kesehatan mental sejak dini."
+        },
+        {
+          "name": "Aksi Muda Jaga Iklim (AMJI 2023)",
+          "description": "Program pemberdayaan remaja untuk menjadi agen perubahan dalam isu perubahan iklim."
+        }
+      ]
+    },
+    "workArea": {
+      "title": "Wilayah Kerja",
+      "text": "Jabodetabek dan 31 kabupaten/kota lain di seluruh Indonesia."
+    },
+    "legality": {
+      "title": "Legalitas",
+      "details": [
+        {"key": "Akta Pendirian", "value": "No. 5 Tahun 2022"},
+        {"key": "SK Kemenkumham", "value": "AHU-0011847.AH.01.04.Tahun 2022"},
+        {"key": "NPWP", "value": "65.671.446.6-003.000"},
+        {"key": "NIB", "value": "0506220019474"},
+        {"key": "Izin Yayasan Sosial", "value": "Tanda Daftar & Izin Yayasan Sosial 2022"}
+      ]
+    }
+  },
+  "donors": {
+    "title": "Daftar Donatur dan Dana Terkumpul",
+    "totalGoal": 50000000,
+    "collected": "Terkumpul",
+    "target": "Target",
+    "updateInfo": "Update per 21 April 2025 – Belum ada informasi tambahan.",
+    "headers": {
+      "name": "Nama",
+      "amount": "Jumlah Donasi",
+      "date": "Tanggal (Opsional)"
+    },
+    "donors": [
+      {"name": "Jolanda Sitanggang", "amount": 20000, "date": "2025-04-20"},
+      {"name": "Naomi Silaban", "amount": 100000, "date": "2025-04-21"},
+      {"name": "[Nama Donatur Berikutnya]", "amount": 0, "date": ""},
+      {"name": "[Nama Donatur Berikutnya]", "amount": 0, "date": ""}
+    ]
+  },
+  "contact": {
+    "title": "Hubungi Kami",
+    "details": [
+      {"icon": "mail", "text": "adhiktifoundation@gmail.com"},
+      {"icon": "map-pin", "text": "Jl. Waru No. 20A Rawamangun, Jakarta Timur"},
+      {"icon": "phone", "text": "088999181282"}
+    ],
+    "socials": {
+      "follow": "Follow us:",
+      "instagram": "https://instagram.com",
+      "whatsapp": "https://wa.me/628811094150",
+      "youtube": "https://youtube.com"
+    },
+    "form": {
+      "name": "Nama",
+      "namePlaceholder": "John Doe",
+      "email": "Email",
+      "emailPlaceholder": "john.doe@example.com",
+      "message": "Pesan",
+      "messagePlaceholder": "Pesan Anda di sini...",
+      "submit": "Kirim Pesan"
+    },
+    "mapPlaceholder": "Google Maps Embed Placeholder",
+    "successMessage": "Pesan Anda telah terkirim! Terima kasih telah menghubungi kami.",
+    "errorMessage": "Gagal mengirim pesan. Silakan coba lagi."
+  },
+  "newsletter": {
+    "success": "Terima kasih telah berlangganan!",
+    "error": "Gagal berlangganan. Silakan coba lagi."
+  },
+  "communityActionPage": {
+    "title": "Aksi Komunitas untuk Kesehatan Jiwa",
+    "introduction": "Setiap orang dapat berperan dalam menciptakan lingkungan yang mendukung kesehatan mental. Temukan bagaimana Anda dapat terlibat, mulai dari kampanye kesadaran hingga menciptakan ruang aman di komunitas Anda.",
+    "sections": [
+      {
+        "icon": "Megaphone",
+        "title": "Kampanye Kesadaran",
+        "content": "Bergabunglah dengan kami dalam menyebarkan informasi yang akurat tentang kesehatan mental. Dengan mengurangi stigma, kita membuka pintu bagi lebih banyak orang untuk mencari bantuan. Bagikan materi kami, adakan diskusi, atau undang kami untuk berbicara di komunitas Anda.",
+        "cta": "Lihat Materi Kampanye"
+      },
+      {
+        "icon": "ShieldCheck",
+        "title": "Ciptakan Ruang Aman",
+        "content": "Ruang aman adalah lingkungan di mana individu merasa nyaman untuk berbagi pengalaman mereka tanpa takut dihakimi. Pelajari cara memfasilitasi kelompok diskusi, membangun jaringan dukungan sebaya, dan mempromosikan empati di sekolah, tempat kerja, atau lingkungan Anda.",
+        "cta": "Panduan Ruang Aman"
+      },
+      {
+        "icon": "DollarSign",
+        "title": "Dukungan Donasi",
+        "content": "Dukungan finansial Anda sangat penting untuk keberlanjutan program kami. Setiap donasi membantu kami menyediakan konseling, materi edukasi, dan dukungan langsung kepada anak-anak dan remaja yang membutuhkan. Lihat transparansi penggunaan dana kami.",
+        "cta": "Donasi Sekarang"
+      }
+    ]
+  }
+}

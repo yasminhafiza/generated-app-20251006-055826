@@ -1,0 +1,355 @@
+{
+  "nav": {
+    "mentalHealth": {
+      "title": "Mental Health",
+      "items": [
+        { "label": "Child & Teen Health Issues", "href": "/mental-health" },
+        { "label": "Solutions & Support", "href": "/solutions-support" },
+        { "label": "Parenting Guidance", "href": "/parenting-guidance" }
+      ]
+    },
+    "volunteer": "Volunteer",
+    "communityAction": "Community Action",
+    "profile": "Profile",
+    "donors": "Donors",
+    "contact": "Contact",
+    "donateNow": "Donate Now"
+  },
+  "header": {
+    "title": "Adhikti Foundation"
+  },
+  "footer": {
+    "tagline": "Together for the Health of Children and Adolescents.",
+    "quickLinks": "Quick Links",
+    "contact": "Contact",
+    "newsletter": "Newsletter",
+    "newsletterPrompt": "Get the latest updates from us.",
+    "emailPlaceholder": "Your Email",
+    "subscribe": "Subscribe",
+    "copyright": "Adhikti Foundation. All rights reserved.",
+    "builtWith": "Built with ❤️ at Cloudflare"
+  },
+  "floatingCta": {
+    "join": "Join Us",
+    "donate": "Donate Now"
+  },
+  "home": {
+    "carousel": [
+      {
+        "imageUrl": "https://images.unsplash.com/photo-1593113646773-028c64a8f1b8?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+        "headline": "Together for Child & Youth Mental Health",
+        "caption": "Every child deserves to be heard and supported. Let's create a brighter future together.",
+        "buttonText": "Learn More",
+        "link": "/mental-health"
+      },
+      {
+        "imageUrl": "https://images.unsplash.com/photo-1518398046979-6e1b8a03a46a?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+        "headline": "Let's Build Safe and Caring Communities",
+        "caption": "Be part of the change. Join us as a volunteer to spread awareness and make a difference.",
+        "buttonText": "Join as a Volunteer",
+        "link": "/volunteer"
+      },
+      {
+        "imageUrl": "https://images.unsplash.com/photo-1505236858219-8359eb29e329?q=80&w=2162&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+        "headline": "Your Support Brings Hope",
+        "caption": "Your donation helps us provide critical resources to children and adolescents in need.",
+        "buttonText": "See Our Actions",
+        "link": "/community-action"
+      }
+    ],
+    "campaignTitle": "Free Indonesian Children and Adolescents from Mental Health Problems.",
+    "mission": {
+      "statement": "Adhikti Foundation cares about the fate of children and adolescents in Indonesia, especially on mental and social health issues.",
+      "volunteerCta": "Become a Volunteer",
+      "donateCta": "Donate Now"
+    },
+    "communitySection": {
+      "title": "Community Awareness and Participation",
+      "introduction": "Mental health is not only a medical issue — it is a shared responsibility. Together, we can create supportive environments for children and teenagers to grow safely and confidently.",
+      "cards": [
+        {
+          "icon": "ShieldCheck",
+          "title": "Safe Spaces",
+          "description": "Encourage communities to provide safe and supportive environments for children and adolescents with potential mental health issues."
+        },
+        {
+          "icon": "HeartHandshake",
+          "title": "Reduce Stigma",
+          "description": "Promote collective efforts to eliminate discrimination and negative labeling toward mental health challenges."
+        },
+        {
+          "icon": "Users",
+          "title": "Family Support Systems",
+          "description": "Help families build strong emotional and social support networks."
+        }
+      ],
+      "learnMoreButton": "Explore Solutions",
+      "kidpediaTeaser": "Find practical guidance for parents in supporting their children.",
+      "communityActionLink": "/solutions-support",
+      "parentingGuidanceLink": "/parenting-guidance"
+    }
+  },
+  "mentalHealthIssuesPage": {
+    "title": "Child & Adolescent Mental Health Issues",
+    "introduction": "Understanding the mental health challenges faced by the younger generation is the first step toward providing effective support. Let's explore common issues, their causes, and the signs to watch for.",
+    "commonChallenges": {
+      "title": "Common Challenges",
+      "items": [
+        {"icon": "CloudRain", "name": "Anxiety & Stress", "description": "Excessive worry about school, friends, or the future."},
+        {"icon": "Frown", "name": "Depression & Sadness", "description": "Persistent feelings of sadness, loss of interest, and low energy."},
+        {"icon": "Users", "name": "Social Issues & Bullying", "description": "Difficulty interacting with peers and the negative impact of bullying."},
+        {"icon": "HeartCrack", "name": "Trauma & Pressure", "description": "The impact of difficult events or significant environmental stress."}
+      ]
+    },
+    "causes": {
+      "title": "Causes & Risk Factors",
+      "items": [
+        {"name": "Biological", "description": "Genetic factors and brain chemistry."},
+        {"name": "Psychological", "description": "Mindset and coping skills."},
+        {"name": "Environmental", "description": "Family, school, and social pressures."}
+      ]
+    },
+    "statistics": {
+      "title": "Key Statistics",
+      "items": [
+        {"value": "1 in 7", "label": "Adolescents (10-19) experience a mental disorder (WHO)."},
+        {"value": "50%", "label": "Of all mental disorders begin by age 14 (WHO)."},
+        {"value": "9.8%", "label": "Of Indonesian adolescents experience a mental disorder (Basic Health Research 2018)."}
+      ]
+    },
+    "signs": {
+      "title": "Signs to Watch For",
+      "description": "Pay attention to significant behavioral changes in your child or teenager:",
+      "items": ["Drastic mood swings", "Withdrawing from friends and family", "Decline in academic performance", "Changes in sleep or eating patterns", "Loss of interest in hobbies"]
+    },
+    "cta": {
+      "text": "Knowing the signs is the first step. Let's explore solutions and how to provide support.",
+      "button": "See Solutions & Support",
+      "link": "/solutions-support"
+    }
+  },
+  "solutionsSupportPage": {
+    "title": "Solutions & Support",
+    "introduction": "Addressing mental health challenges requires a collective effort. Here are practical approaches we can take as a community, as well as when to seek professional help.",
+    "sections": [
+      {
+        "icon": "Users",
+        "title": "Community Initiatives",
+        "content": "The community is the first line of defense. By organizing workshops, creating safe spaces to share, and empowering peer mentors, we can build a strong and accessible support system.",
+        "points": ["Awareness workshops in schools", "Peer mentor programs", "Open and safe discussion spaces"]
+      },
+      {
+        "icon": "Stethoscope",
+        "title": "Professional Help",
+        "content": "Sometimes, expert help is essential. Psychologists, counselors, and medical services can provide proper diagnosis, therapy, and interventions to aid in recovery.",
+        "points": ["Individual or family counseling", "Cognitive Behavioral Therapy (CBT)", "Medical support when necessary"]
+      },
+      {
+        "icon": "HeartHandshake",
+        "title": "Self-Care Tools",
+        "content": "Encouraging healthy habits can boost mental resilience. Simple activities like mindfulness, journaling, or expressing oneself through art can be a positive outlet.",
+        "points": ["Mindfulness and breathing exercises", "Daily journaling", "Creative expression through art or music"]
+      }
+    ],
+    "cta": {
+      "text": "You can be part of the solution. Join us to make a difference.",
+      "button": "Become a Volunteer",
+      "link": "/volunteer"
+    }
+  },
+  "parentingGuidancePage": {
+    "title": "Guidance for Parents",
+    "introduction": "A parent's role is crucial in shaping a child's mental health. Here is a guide to building positive communication, recognizing emotional needs, and supporting your child's growth.",
+    "sections": [
+      {
+        "icon": "MessageSquare",
+        "title": "Positive Communication",
+        "content": "Create an environment where your child feels safe to talk about anything. Listen without judgment, validate their feelings, and ask open-ended questions to encourage dialogue.",
+        "points": ["Listen actively", "Validate their feelings", "Avoid judgment"]
+      },
+      {
+        "icon": "Heart",
+        "title": "Recognizing Emotional Needs",
+        "content": "Children express stress and sadness in different ways. Look for behavioral changes, like irritability or withdrawal, as signs they may need emotional support.",
+        "points": ["Notice behavioral changes", "Understand their stress triggers", "Offer comfort and support"]
+      },
+      {
+        "icon": "Shield",
+        "title": "Building Resilience",
+        "content": "Help your child develop the ability to bounce back from adversity. Teach problem-solving skills, encourage healthy routines, and celebrate their effort, not just the outcome.",
+        "points": ["Teach problem-solving", "Encourage healthy routines", "Focus on effort, not results"]
+      },
+      {
+        "icon": "HelpCircle",
+        "title": "When to Seek Professional Help",
+        "content": "If you are concerned about your child's mental health, do not hesitate to seek help. Signs like extreme or long-lasting behavioral changes are a good reason to consult a professional.",
+        "points": ["Trust your instincts", "Consult with teachers or school counselors", "Contact a child psychologist"]
+      }
+    ]
+  },
+  "volunteer": {
+    "title": "Become a Volunteer at Adhikti Foundation",
+    "faqTitle": "Frequently Asked Questions (FAQ)",
+    "faqs": [
+      {
+        "question": "Who can become a volunteer?",
+        "answer": "Anyone who cares about the mental health of children and adolescents in Indonesia."
+      },
+      {
+        "question": "How to become a volunteer?",
+        "answer": "Click the volunteer registration link or contact us on WhatsApp at 08811094150."
+      },
+      {
+        "question": "What do volunteers do?",
+        "answer": "• Find sub-volunteers from communities.\n• Conduct education with IEC materials.\n• Distribute leaflets and activity reports to Adhikti Foundation."
+      },
+      {
+        "question": "What do volunteers get?",
+        "answer": "• 2.5% of the total funds from sub-volunteers.\n• A certificate of appreciation.\n• Recommendations for other Adhikti activities."
+      }
+    ],
+    "volunteerList": {
+      "title": "List of Volunteers/Sub-Volunteers",
+      "caption": "A list of active volunteers and sub-volunteers at Adhikti Foundation.",
+      "headers": ["Code", "Name", "Occupation", "Location"],
+      "volunteers": [
+        {"code": "AF-001", "name": "Reza Novalino", "occupation": "Student", "location": "Jakarta"},
+        {"code": "AF-002", "name": "Bonike Islam", "occupation": "Private Employee", "location": "Bogor"},
+        {"code": "AF-003", "name": "Dani Damanik", "occupation": "Entrepreneur", "location": "Depok"},
+        {"code": "AF-004", "name": "Della", "occupation": "Housewife", "location": "Tangerang"},
+        {"code": "AF-005", "name": "Riesta A. Chandra", "occupation": "Teacher", "location": "Bekasi"},
+        {"code": "AF-006", "name": "Irma", "occupation": "Nurse", "location": "Jakarta"},
+        {"code": "AF-007", "name": "Hanifah", "occupation": "Student", "location": "Bandung"},
+        {"code": "AF-008", "name": "Sapna Putri", "occupation": "Graphic Designer", "location": "Jakarta"},
+        {"code": "AF-009", "name": "Naomi Silaban", "occupation": "Lawyer", "location": "Jakarta"},
+        {"code": "AF-010", "name": "Ziya Jauza", "occupation": "Writer", "location": "Yogyakarta"}
+      ]
+    }
+  },
+  "profile": {
+    "about": {
+      "title": "About Adhikti Foundation",
+      "text": "Adhikti Foundation (Yayasan Adhirajasa Kusuma Bakti) is a social foundation officially established on May 30, 2022, dedicated to improving the quality of life for children and adolescents in Indonesia."
+    },
+    "vision": {
+      "title": "Vision",
+      "text": "To be a leading organization that understands, protects, and empowers children and adolescents for a brighter future."
+    },
+    "mission": {
+      "title": "Mission",
+      "text": "To realize a decent, healthy, and safe life for every child and adolescent in Indonesia through innovative and sustainable programs."
+    },
+    "strategicIssues": {
+      "title": "Strategic Issues 2022–2027",
+      "issues": [
+        "Health of children and adolescents (mental, nutrition, HIV-AIDS).",
+        "Impact of climate change on children.",
+        "Children in conflict with the law and psychological recovery.",
+        "Youth empowerment and child policy advocacy."
+      ]
+    },
+    "programs": {
+      "title": "Featured Programs",
+      "items": [
+        {
+          "name": "Sang Pelipur (The Comforter)",
+          "description": "Collaboration with IPB University to provide psychosocial support to children in vulnerable areas."
+        },
+        {
+          "name": "Publication of the book “Senandung Sang Pelipur”",
+          "description": "A children's storybook aimed at early mental health education."
+        },
+        {
+          "name": "Youth Action for Climate (AMJI 2023)",
+          "description": "A youth empowerment program to become agents of change on climate issues."
+        }
+      ]
+    },
+    "workArea": {
+      "title": "Work Area",
+      "text": "Greater Jakarta area and 31 other districts/cities throughout Indonesia."
+    },
+    "legality": {
+      "title": "Legality",
+      "details": [
+        {"key": "Deed of Establishment", "value": "No. 5 of 2022"},
+        {"key": "Ministry of Law Decree", "value": "AHU-0011847.AH.01.04.Year 2022"},
+        {"key": "Tax ID (NPWP)", "value": "65.671.446.6-003.000"},
+        {"key": "Business ID (NIB)", "value": "0506220019474"},
+        {"key": "Social Foundation Permit", "value": "Registration & Permit 2022"}
+      ]
+    }
+  },
+  "donors": {
+    "title": "List of Donors and Funds Raised",
+    "totalGoal": 50000000,
+    "collected": "Collected",
+    "target": "Target",
+    "updateInfo": "Update as of April 21, 2025 – No additional information yet.",
+    "headers": {
+      "name": "Name",
+      "amount": "Donation Amount",
+      "date": "Date (Optional)"
+    },
+    "donors": [
+      {"name": "Jolanda Sitanggang", "amount": 20000, "date": "2025-04-20"},
+      {"name": "Naomi Silaban", "amount": 100000, "date": "2025-04-21"},
+      {"name": "[Next Donor Name]", "amount": 0, "date": ""},
+      {"name": "[Next Donor Name]", "amount": 0, "date": ""}
+    ]
+  },
+  "contact": {
+    "title": "Contact Us",
+    "details": [
+      {"icon": "mail", "text": "adhiktifoundation@gmail.com"},
+      {"icon": "map-pin", "text": "Jl. Waru No. 20A Rawamangun, East Jakarta"},
+      {"icon": "phone", "text": "088999181282"}
+    ],
+    "socials": {
+      "follow": "Follow us:",
+      "instagram": "https://instagram.com",
+      "whatsapp": "https://wa.me/628811094150",
+      "youtube": "https://youtube.com"
+    },
+    "form": {
+      "name": "Name",
+      "namePlaceholder": "John Doe",
+      "email": "Email",
+      "emailPlaceholder": "john.doe@example.com",
+      "message": "Message",
+      "messagePlaceholder": "Your message here...",
+      "submit": "Send Message"
+    },
+    "mapPlaceholder": "Google Maps Embed Placeholder",
+    "successMessage": "Your message has been sent! Thank you for contacting us.",
+    "errorMessage": "Failed to send message. Please try again."
+  },
+  "newsletter": {
+    "success": "Thank you for subscribing!",
+    "error": "Failed to subscribe. Please try again."
+  },
+  "communityActionPage": {
+    "title": "Community Action for Mental Health",
+    "introduction": "Everyone can play a role in creating a supportive environment for mental health. Discover how you can get involved, from awareness campaigns to creating safe spaces in your community.",
+    "sections": [
+      {
+        "icon": "Megaphone",
+        "title": "Awareness Campaigns",
+        "content": "Join us in spreading accurate information about mental health. By reducing stigma, we open the door for more people to seek help. Share our materials, host a discussion, or invite us to speak in your community.",
+        "cta": "See Campaign Materials"
+      },
+      {
+        "icon": "ShieldCheck",
+        "title": "Create Safe Spaces",
+        "content": "A safe space is an environment where individuals feel comfortable sharing their experiences without fear of judgment. Learn how to facilitate discussion groups, build peer support networks, and promote empathy in your school, workplace, or neighborhood.",
+        "cta": "Safe Space Guide"
+      },
+      {
+        "icon": "DollarSign",
+        "title": "Donation Support",
+        "content": "Your financial support is crucial to the sustainability of our programs. Every donation helps us provide counseling, educational materials, and direct support to children and adolescents in need. See our fund usage transparency.",
+        "cta": "Donate Now"
+      }
+    ]
+  }
+}
